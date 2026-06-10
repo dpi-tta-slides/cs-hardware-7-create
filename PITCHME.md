@@ -20,6 +20,8 @@ By the end of today you will:
 - Build creative electronics projects
 - Present your work
 
+![bg contain right](assets/iphone-fold-prototype.webp)
+
 ---
 
 # Review Of Our Journey
@@ -104,9 +106,30 @@ Separately.
 
 ---
 
-<!-- TODO: mouse -->
+# Mouse Prototype
+
+Before the computer mouse became a polished product, it looked like this.
 
 ![bg contain right](assets/mouse-prototype-1.jpeg)
+
+<!-- INSTRUCTOR NOTES
+
+* Built by Douglas Engelbart's team in the 1960s
+* Hand-made wooden enclosure
+* Two wheels measured movement
+* Nicknamed "the mouse" because of the cable
+
+The goal wasn't to look good.
+
+The goal was to answer a question:
+
+> Can people interact with computers more naturally?
+
+Almost every modern computer today uses descendants of this design.
+
+Engineering often starts with rough prototypes that test a single idea.
+
+-->
 
 ---
 
@@ -114,9 +137,21 @@ Separately.
 
 ---
 
-<!-- xcoffee -->
+# The First Webcam
 
-![bg contain](assets/xcoffee-1.png)
+![bg contain right](assets/xcoffee-1.png)
+
+<!-- INSTRUCTOR NOTES
+
+In 1991, researchers at Cambridge University had a problem:
+
+The coffee pot was down the hall.
+
+People kept walking over only to discover it was empty.
+
+The solution: point a camera at the pot and display it on their computers
+
+-->
 
 ---
 
@@ -124,13 +159,62 @@ Separately.
 
 ---
 
-<!-- TODO: google lego rack -->
+# Google Server
 
-![bg contain](assets/google-server-rack.jpeg)
+![bg contain right](assets/google-server-rack.jpeg)
+
+<!-- INSTRUCTOR NOTES
+
+In the late 1990s, Google was growing quickly.
+
+They needed more servers.
+
+But servers were expensive.
+
+Google engineers built server racks from:
+
+- inexpensive PC components
+- custom wiring
+- LEGO bricks
+
+The LEGO helped hold components in place.
+
+-->
+---
+
+# Dynabook
+
+![bg contain right](assets/alan-kay-dynabook.jpg)
+
+<!-- INSTRUCTOR NOTES
+
+# Computers Were For Experts
+
+In the late 1960s, computers were:
+
+- expensive
+- room-sized
+- difficult to use
+- operated by specialists
+
+Most people never touched one.
+
+Alan Kay Had A Different Idea
+
+What if every child had a personal computer?
+
+One that was:
+
+- portable
+- affordable
+- interactive
+- designed for learning
+
+-->
 
 ---
 
-<!-- TODO: tablet computer prototype from 70s -->
+![bg contain](assets/children-with-dynabook.webp)
 
 ---
 
@@ -296,7 +380,7 @@ Use everything we've learned.
 
 Build something original.
 
-<!-- ![bg contain right](assets/inventor-workbench.jpg) -->
+![bg contain right](assets/workbench.webp)
 
 ---
 
@@ -310,9 +394,9 @@ Build something original.
 - digital pet
 - music maker
 - sensor project
-- or solve another problem!
+- or solve a problem for yourself!
 
-<!-- ![bg contain right](assets/project-ideas.jpg) -->
+![bg contain right](assets/project-prototype.jpeg)
 
 ---
 
@@ -325,9 +409,9 @@ Before building:
 - What outputs are needed?
 - What components are needed?
 
-<!-- ![bg contain right](assets/sketchbook.jpg) -->
+![bg contain right](assets/sketchbook.jpeg)
 
----
+<!-- ---
 
 # Build
 
@@ -336,8 +420,6 @@ Prototype first.
 Test often.
 
 Improve continuously.
-
-![bg contain right](assets/student-building.jpg)
 
 ---
 
@@ -351,11 +433,11 @@ Every engineer spends time:
 
 Problems are expected.
 
-![bg contain right](assets/debugging-workbench.jpg)
+-->
 
 ---
 
-# Project Showcase
+# Lab Breakout #2 - Project Showcase
 
 Prepare a short presentation.
 
@@ -363,10 +445,9 @@ Share:
 
 - What you built (or plan to build)
 - How it works
-- Challenges you faced
 - What you learned
 
-![bg contain right](assets/presentation.jpg)
+<!-- ![bg contain right](assets/presentation.jpg) -->
 
 ---
 
@@ -378,7 +459,8 @@ You started with Ohm's Law
 
 Now you can build complete systems.
 
-<!-- ![bg contain right](assets/electronics-journey.jpg) -->
+![bg contain right](assets/ohms-law.webp)
+
 
 ---
 
@@ -392,7 +474,7 @@ Now you can build complete systems.
 6 - Join
 7 - Create
 
-<!-- ![bg contain right](assets/hero-shot-projects.jpg) -->
+![bg contain right](assets/mountaineers.jpeg)
 
 ---
 
