@@ -54,6 +54,32 @@ Often:
 
 ---
 
+# The Blue Box
+
+![bg contain right](assets/blue-box.jpg)
+
+<!-- INSTRUCTOR NOTES
+
+Before Apple, Steve Jobs and Steve Wozniak built a device called a "Blue Box" to get free long distance phone calls.
+
+Long-distance phone calls were expensive.
+
+The Blue Box generated special audio tones that could control parts of the phone system.
+
+Jobs later said:
+
+"If it hadn't been for the Blue Box, there would have been no Apple."
+
+The important lesson:
+
+Apple didn't start with a computer.
+
+It started with two people building something interesting.
+
+-->
+
+---
+
 # The Apple I
 
 One of Apple's first computers was hand assembled.
