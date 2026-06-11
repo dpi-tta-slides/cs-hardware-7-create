@@ -138,6 +138,8 @@ Before the computer mouse became a polished product, it looked like this.
 
 ![bg contain right](assets/mouse-prototype-1.jpeg)
 
+[Mother of All Demos](https://www.youtube.com/watch?v=B6rKUf9DWRI)
+
 <!-- INSTRUCTOR NOTES
 
 * Built by Douglas Engelbart's team in the 1960s
@@ -412,7 +414,6 @@ Build something original.
 
 # Possible Projects
 
-- traffic light
 - reaction timer
 - electronic game
 - name badge
@@ -463,7 +464,7 @@ Problems are expected.
 
 ---
 
-# Lab Breakout #2 - Project Showcase
+# Lab Breakout #2 - Capstone Showcase
 
 Prepare a short presentation.
 
@@ -486,7 +487,6 @@ You started with Ohm's Law
 Now you can build complete systems.
 
 ![bg contain right](assets/ohms-law.webp)
-
 
 ---
 
