@@ -82,7 +82,7 @@ It started with two people building something interesting.
 
 # The Apple I
 
-One of Apple's first computers was hand assembled.
+Apple's first computers was hand assembled.
 
 Built by:
 
@@ -269,7 +269,8 @@ Learn from it.
 
 Improve it.
 
-![bg contain right](assets/breadboard-project.jpg)
+<!-- TODO: image -->
+<!-- ![bg contain right](assets/breadboard-project.jpg) -->
 
 <!-- 
 
@@ -318,6 +319,8 @@ Create a paper circuit using:
 
 [Video](https://www.youtube.com/shorts/KtJXftvsYoY)
 
+![bg contain right](assets/animated-paper-circuit.gif)
+
 ---
 
 # Lab Breakout #1
@@ -330,7 +333,7 @@ Requirements:
 - custom artwork
 - working switch
 
-![bg contain right](assets/paper-circuits.jpg)
+![bg contain right](assets/cupcake.gif)
 
 ---
 
@@ -414,11 +417,11 @@ Build something original.
 
 # Possible Projects
 
-- reaction timer
 - electronic game
 - name badge
 - alarm
 - digital pet
+- night light
 - music maker
 - sensor project
 - or solve a problem for yourself!
