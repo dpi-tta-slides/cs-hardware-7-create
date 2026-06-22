@@ -473,7 +473,7 @@ Prepare a short presentation.
 
 Share:
 
-- What you built (or plan to build)
+- What you plan to build
 - How it works
 - What you learned
 
